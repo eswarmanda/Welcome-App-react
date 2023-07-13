@@ -1,0 +1,25 @@
+.cont {
+  background-color: #1e293b;
+  font-family: Bree Serif;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #f0bb03;
+  font-size: 60px;
+}
+.text {
+  color: #ffffff;
+  font-size: 30px;
+}
+.btn {
+  background-color: #ffffff;
+  border-radius: 10px;
+  border-width: 0px;
+  height: 30px;
+  width: fit-content;
+  font-family: Bree Serif;
+}
